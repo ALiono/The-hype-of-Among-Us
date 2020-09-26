@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+### The hype of Among Us.
 
-You can use the [editor on GitHub](https://github.com/ALiono/The-hype-of-Among-Us/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Recently I have been asked by people in my circles to play Among Us together. Among Us is a game made and published by InnerSloth. Lately it has been gaining traction online.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-----
 
-### Markdown
+*What made this two years old game suddenly became so popular?*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-----
 
-```markdown
-Syntax highlighted code block
+Firstly they have **the momentum**. Because of COVID, people are reluctant to go out and stay inside more often. They watch videos, read books, and play games more.
 
-# Header 1
-## Header 2
-### Header 3
+Secondly, because of how **convenient** the game is.
+Among Us is relatively easy to pick up, even for beginners. The game has 2 sides, crewmates side and impostors side. As a crewmate, your responsibility is to call out the impostors and to finish your quests while as an impostor, you have to kill crewmates and sabotage the missions. 
 
-- Bulleted
-- List
+You can play it from your mobile phone and computer, perk of having the cross platform system. One session of the game full of players (10/10) can hardly last for more than 10-15 minutes. 
 
-1. Numbered
-2. List
+I remember when Pokemon Go became an instant hit in 2016. That's when my circles of friends, families, colleagues, and internet forumers were all talking about the same one particular thing. Now it is happening again with Among Us.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ALiono/The-hype-of-Among-Us/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Will Among Us keep their momentum, or will it just be a one hit wonder? Only time will tell.
